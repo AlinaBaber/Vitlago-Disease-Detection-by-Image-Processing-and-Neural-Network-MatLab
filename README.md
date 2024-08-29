@@ -65,6 +65,11 @@ An ensemble algorithm was developed to combine the results of these models for i
 
 The models were tested on the Vitiligo dataset, and the performance was evaluated based on accuracy, precision, and recall metrics. The results demonstrated the effectiveness of the preprocessing and feature extraction techniques in enhancing model performance.
 
+
+https://github.com/user-attachments/assets/0b502a9a-ed99-4c8e-a219-956166a28088
+
+
+
 ## Requirements
 
 - Matlab R2020a or later
